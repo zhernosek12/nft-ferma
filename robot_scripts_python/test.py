@@ -3,4 +3,5 @@ b = 20
 
 c = a + b
 
-print("result", c)
+
+print("SCRIPT_COMPLETED_SUCCESSFULLY")
