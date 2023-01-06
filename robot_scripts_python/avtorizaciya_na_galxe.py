@@ -1,3 +1,5 @@
+metamaskSelenium = MetamaskSelenium(driver, metamask_password)
+
 driver.get("https://galxe.com/")
 
 driver.minimize_window()
