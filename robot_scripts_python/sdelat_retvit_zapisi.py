@@ -1,3 +1,6 @@
+# скрипт запускается с http://ferma.zhernosek.xyz и имеет все встроенные модули
+# https://t.me/zhernosek12
+
 driver.get(url)
 
 time.sleep(5)
