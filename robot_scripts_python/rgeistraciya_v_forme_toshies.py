@@ -17,9 +17,7 @@ find_element_by_xpath_v2(driver, '/html/body/div/main/div[2]/main/div/div/div[2]
 
 time.sleep(1)
 
-JavascriptExecutor jse = (JavascriptExecutor)driver;
-
-jse.executeScript("scroll(0, 150)");
+driver.execute_script("window.scrollTo(0,150)")
 
 time.sleep(1)
 
