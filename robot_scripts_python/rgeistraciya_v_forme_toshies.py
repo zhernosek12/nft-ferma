@@ -19,4 +19,4 @@ time.sleep(1)
 
 find_element_by_xpath_v2(driver,"//button[contains(text(),'Register')]").click()
 
-time.sleep(5)
+time.sleep(3)
