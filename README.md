@@ -6,3 +6,5 @@
 http://ferma.zhernosek.xyz/
 
 ![изображение](https://user-images.githubusercontent.com/17593539/211881801-90746156-77c9-4429-82f1-6f949a3a8521.png)
+
+![изображение](https://user-images.githubusercontent.com/17593539/211881965-c2209bb5-7723-44cf-a26c-f6e3417cc73f.png)
