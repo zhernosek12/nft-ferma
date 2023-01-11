@@ -21,6 +21,7 @@ driver.execute_script("window.scrollTo(0,150)")
 
 time.sleep(1)
 
-find_element_by_xpath_v2(driver,"//button[contains(text(),'Register')]").click()
+button = wait.until(EC.element_to_be_clickable((By.XPATH, "//button[contains(text(),'Register')]")))
+driver.execute_script("arguments[0].click();", button)
 
 time.sleep(3)
