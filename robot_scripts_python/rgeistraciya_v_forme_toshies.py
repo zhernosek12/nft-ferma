@@ -18,3 +18,5 @@ find_element_by_xpath_v2(driver, '/html/body/div/main/div[2]/main/div/div/div[2]
 time.sleep(1)
 
 find_element_by_xpath_v2(driver,'/html/body/div/main/div[2]/main/div/div/div[2]/div/div/main/div/form/p[5]/button').click()
+
+time.sleep(5)
