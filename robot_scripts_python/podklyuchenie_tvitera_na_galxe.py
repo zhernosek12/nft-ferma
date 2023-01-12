@@ -1,14 +1,24 @@
+#restume
+
 metamaskSelenium = MetamaskSelenium(driver, metamask_password)
 
 driver.get("https://galxe.com/twitterConnect")
 
-time.sleep(1)
+time.sleep(5)
 
-find_element_by_xpath_v2(driver, '//*[@id="app"]/div[1]/main/div/div/div/div[2]/div/button').click()
+driver.execute_script("window.scrollTo(0, 20)")
 
-time.sleep(2)
+driver.set_window_position(100, 100, windowHandle='current')
+
+find_element_by_xpath_v2(driver, '//*[@id="app"]/div/main/div/div/div/div[2]/div/button').click()
+
+time.sleep(3)
 
 driver.switch_to.window(driver.window_handles[1])
+
+time.sleep(1)
+
+driver.set_window_position(100, 100, windowHandle='current')
 
 time.sleep(1)
 
