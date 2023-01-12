@@ -38,10 +38,7 @@ find_element_by_xpath_v2(driver, '//*[@id="app"]/div/main/div/div/div/div[3]/div
 
 time.sleep(5)
 
-try:
-    metamaskSelenium.sign_confirm()
-except:
-    pass
+metamaskSelenium.sign_confirm()
 
 time.sleep(1)
 
