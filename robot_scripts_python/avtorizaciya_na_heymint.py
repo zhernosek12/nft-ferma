@@ -2,7 +2,7 @@ driver.minimize_window()
 
 driver.set_window_size(1370, 1010)
 
-driver.set_window_position(100, 100, windowHandle='current')
+driver.set_window_position(10, 10, windowHandle='current')
 
 metamaskSelenium = MetamaskSelenium(driver, metamask_password)
 
