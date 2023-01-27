@@ -36,6 +36,8 @@ time.sleep(2)
 
 find_element_by_xpath_v2(driver, '/html/body/div[3]/div/div/div/button[2]/div/p').click()
 
+time.sleep(2)
+
 metamaskSelenium.connect_to_website()
 
 time.sleep(2)
