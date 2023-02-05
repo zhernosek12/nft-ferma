@@ -61,8 +61,10 @@ ferma.run()
 
 1. Выбираем вкладку "Прокси" и загружаем все наши прокси, а также их проверяем.
 2. Выбираем вкладку "Браузеры" и создаем профили, на каждый профиль мы привязываем уже наш созданный прокси
+
 ![изображение](https://user-images.githubusercontent.com/17593539/216833524-54c4bca3-04e9-49a9-b2a7-cc45f93026b1.png)
 После создания профиля, сохраните значение ID
+
 ![изображение](https://user-images.githubusercontent.com/17593539/216833940-fc4102e2-f452-402d-9f0b-2088039e31d0.png)
 3. Выбираем вкладку "Расширения" и добавляем плагин метамаск, ссылка плагина __Google Chrome__ https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
 
