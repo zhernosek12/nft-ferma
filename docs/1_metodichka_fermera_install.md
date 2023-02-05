@@ -67,7 +67,8 @@ ferma.run()
 После создания профиля, сохраните значение ID
 
 ![изображение](https://user-images.githubusercontent.com/17593539/216833940-fc4102e2-f452-402d-9f0b-2088039e31d0.png)
-3. Выбираем вкладку "Расширения" и добавляем плагин метамаск, ссылка плагина __Google Chrome__ https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
+
+3. Выбираем вкладку "Расширения" и добавляем плагин метамаск, ссылка плагина __Google Chrome:__ https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
 
 
 ### Настройка самого профиля, уже когда мы запустили браузер
