@@ -13,7 +13,7 @@ _Краткость -- сестра таланта_
 2. Твиттер аккаунт;
 3. Аккаунт дискорд;
 4. Почта Gmail;
-5. Таблица гугл --> [Google sheets](https://docs.google.com/spreadsheets/d/1rk5FAp_mhQR3yznUDIcbqQ6YSRv9BBpuswguIe1S268/edit?usp=sharing) ;
+5. Шаблон для хранения паролей --> [Google sheets](https://docs.google.com/spreadsheets/d/1rk5FAp_mhQR3yznUDIcbqQ6YSRv9BBpuswguIe1S268/edit?usp=sharing) ;
 
 
 ### Где купить, и по каким критерям?
@@ -63,6 +63,8 @@ ferma.run()
 2. Выбираем вкладку "Браузеры" и создаем профили, на каждый профиль мы привязываем уже наш созданный прокси
 ![изображение](https://user-images.githubusercontent.com/17593539/216833524-54c4bca3-04e9-49a9-b2a7-cc45f93026b1.png)
 После создания профиля, сохраните значение ID
+![изображение](https://user-images.githubusercontent.com/17593539/216833940-fc4102e2-f452-402d-9f0b-2088039e31d0.png)
+3. Выбираем вкладку "Расширения" и добавляем плагин метамаск, ссылка плагина __Google Chrome__ https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
 
 
 ### Настройка самого профиля, уже когда мы запустили браузер
