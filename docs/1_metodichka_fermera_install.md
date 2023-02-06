@@ -13,7 +13,7 @@ _Краткость -- сестра таланта_
 2. Твиттер аккаунт;
 3. Аккаунт дискорд;
 4. Почта Gmail;
-5. Шаблон для хранения паролей --> [Google sheets](https://docs.google.com/spreadsheets/d/1rk5FAp_mhQR3yznUDIcbqQ6YSRv9BBpuswguIe1S268/edit?usp=sharing) ;
+5. Шаблон для хранения паролей --> [Google sheets](https://docs.google.com/spreadsheets/d/1rk5FAp_mhQR3yznUDIcbqQ6YSRv9BBpuswguIe1S268/edit?usp=sharing) (использовать таблицу вы можете по желанию, она сделана для удобства);
 
 
 ### Где купить, и по каким критерям?
